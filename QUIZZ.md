@@ -11,3 +11,5 @@
 3. Osassa 2 mainitun 'hyvän backlogin' kriteerejä noudattava backlog on leanin periaatteiden mukainen
 
 4. Scrum of scrums on periaate, jonka avulla pyritään hallitsemaan useita kehitystiimejä, jotka työskentelevät saman tuotteen parissa
+
+5. Smartlyn toimiala on Facebook-mainostus
